@@ -1,10 +1,10 @@
-Karlsruhe, Germany
+Awesome Karlsruhe, Germany [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================================================================================
-This is information about Karlsruhe, Germany. Watch this repo to get notified about changes, especially ranking changes.
+This is a list of awesome people and things in Karlsruhe, Germany. It is inspired by [awesome](https://github.com/sindresorhus/awesome). Currently, it includes the best programmers and projects. Watch this repo to get notified about changes, especially ranking changes.
 
-15 best programmers in Karlsruhe, Germany
+Top 15 programmers in Karlsruhe, Germany
 --------------------------------------------------------------------------------
-These are the 15 most influential programmers out of more than 250 programmers in Karlsruhe, Germany.
+These are the 15 most influential programmers in Karlsruhe, Germany. The score (in parentheses) is computed by combining projects, followers, and other information.
 
 1. Matthias Pfefferle [@pfefferle](https://github.com/pfefferle) (20)
 2. Ben Scholzen [@DASPRiD](https://github.com/DASPRiD) (19)
@@ -22,4 +22,16 @@ These are the 15 most influential programmers out of more than 250 programmers i
 14. Timo Dörr [@Dynalon](https://github.com/Dynalon) (13)
 15. timo [@timo](https://github.com/timo) (13)
 
-You can find the comprehensive statistics at the page for [Karlsruhe, Germany](http://programmermap.com/area/karlsruhe-germany) at programmermap.com.
+You can find comprehensive statistics at the page for [Karlsruhe, Germany](http://programmermap.com/area/karlsruhe-germany) at programmermap.com.
+
+5 most popular projects
+--------------------------------------------------------------------------------
+These are the five most popular projects (by stars) from local developers:
+
+1. [awesome-android](https://github.com/JStumpp/awesome-android) (1137)
+2. [mdwiki](https://github.com/Dynalon/mdwiki) (1102)
+3. [openwebicons](http://pfefferle.github.io/openwebicons/) (741)
+4. [bjoern](https://github.com/jonashaag/bjoern) (678)
+5. [moneta](https://github.com/minad/moneta) (576)
+
+The link is taken from the repository description. If no link is provided there, the repository url is given.
