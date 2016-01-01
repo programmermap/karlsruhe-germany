@@ -28,10 +28,26 @@ You can find comprehensive statistics at the page for [Karlsruhe, Germany](http:
 --------------------------------------------------------------------------------
 These are the five most popular projects (by stars) from local developers:
 
-1. [awesome-android](https://github.com/JStumpp/awesome-android) (1137)
-2. [mdwiki](https://github.com/Dynalon/mdwiki) (1102)
-3. [openwebicons](http://pfefferle.github.io/openwebicons/) (741)
-4. [bjoern](https://github.com/jonashaag/bjoern) (678)
-5. [moneta](https://github.com/minad/moneta) (576)
+1. [awesome-android](https://github.com/JStumpp/awesome-android) (1137 :star:)
+2. [mdwiki](https://github.com/Dynalon/mdwiki) (1102 :star:)
+3. [openwebicons](http://pfefferle.github.io/openwebicons/) (741 :star:)
+4. [bjoern](https://github.com/jonashaag/bjoern) (678 :star:)
+5. [moneta](https://github.com/minad/moneta) (576 :star:)
 
 The link is taken from the repository description. If no link is provided there, the repository url is given.
+
+Startups
+--------------------------------------------------------------------------------
+* [store2be](http://store2be.de) - Aktions- und Verkaufsflächen temporär anmieten
+* [SHNUPS](http://shnups.com) - Hashtags einfach erklärt
+* [LehrWerk](http://lehrwerk.com) - Komplexe Mechanik einfach erklärt
+* [busliniensuche](http://busliniensuche) - Suchmaschine für Fernverbindungen
+* [Campusjäger](http://campusjaeger.de) - Jobvermittlung für Studenten
+
+University / Education
+--------------------------------------------------------------------------------
+* [PionierGarage - Entrepreneurs. KIT.](http://pioniergarage.de) - Student entrepreneurship club
+
+Contributing
+--------------------------------------------------------------------------------
+Please create or edit [CONTRIBUTIONS.md](CONTRIBUTIONS.md) to add an own category. They will be inserted into the README file with the next update.
