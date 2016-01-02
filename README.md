@@ -36,12 +36,17 @@ These are the five most popular projects (by stars) from local developers:
 
 The link is taken from the repository description. If no link is provided there, the repository url is given.
 
+Interesting Tech Companies
+--------------------------------------------------------------------------------
+* [Blue Yonder](http://www.blue-yonder.com) - Predictive Analytics company with [$75million funding](http://www.blue-yonder.com/en/company/press/us-investor-warburg-pincus-is-betting-75million-on-german-tech-firm-blue-yonder.html)
+* [Ocedo](https://www.ocedo.com) - Software defined WAN
+
 Startups
 --------------------------------------------------------------------------------
-* [store2be](http://store2be.de) - Aktions- und Verkaufsflächen temporär anmieten
+* [store2be](http://store2be.com) - Aktions- und Verkaufsflächen temporär anmieten
 * [SHNUPS](http://shnups.com) - Hashtags einfach erklärt
 * [LehrWerk](http://lehrwerk.com) - Komplexe Mechanik einfach erklärt
-* [busliniensuche](http://busliniensuche) - Suchmaschine für Fernverbindungen
+* [busliniensuche](http://busliniensuche.de) - Suchmaschine für Fernverbindungen
 * [Campusjäger](http://campusjaeger.de) - Jobvermittlung für Studenten
 
 University / Education
@@ -50,4 +55,4 @@ University / Education
 
 Contributing
 --------------------------------------------------------------------------------
-Please create or edit [CONTRIBUTIONS.md](CONTRIBUTIONS.md) to add an own category. They will be inserted into the README file with the next update.
+Please create or edit [CONTRIBUTIONS.md](CONTRIBUTIONS.md) to add own submissions. They will be inserted into the README.md file with the next update. Feel free to create an issue if you have any questions.
