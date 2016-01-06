@@ -40,6 +40,7 @@ Interesting Tech Companies
 --------------------------------------------------------------------------------
 * [Blue Yonder](http://www.blue-yonder.com) - Predictive Analytics company with [$75million funding](http://www.blue-yonder.com/en/company/press/us-investor-warburg-pincus-is-betting-75million-on-german-tech-firm-blue-yonder.html)
 * [Ocedo](https://www.ocedo.com) - Software defined WAN
+* [PTV Group](hhttps://www.ptvgroup.com/) - Software solutions and consulting services for traffic and transportation, mobility, and logistics
 
 Startups
 --------------------------------------------------------------------------------
