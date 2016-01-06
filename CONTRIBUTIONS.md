@@ -11,6 +11,10 @@ Startups
 * [busliniensuche](http://busliniensuche.de) - Suchmaschine für Fernverbindungen
 * [Campusjäger](http://campusjaeger.de) - Jobvermittlung für Studenten
 
-University / Education
+Help for Founders/Startups
 --------------------------------------------------------------------------------
+* [Cyberforum](https://www.cyberforum.de/angebote/fuer-gruender/) - Incubation, mentoring, and entrepreneurial network for startups
 * [PionierGarage - Entrepreneurs. KIT.](http://pioniergarage.de) - Student entrepreneurship club
+* [KIT Gründerschmiede](http://kit-gruenderschmiede.de) - Consultation, lectures, and networking for founders/entrepreneurs
+
+
