@@ -17,5 +17,4 @@ Help for Founders/Startups
 * [Cyberforum](https://www.cyberforum.de/angebote/fuer-gruender/) - Incubation, mentoring, and entrepreneurial network for startups
 * [PionierGarage - Entrepreneurs. KIT.](http://pioniergarage.de) - Student entrepreneurship club
 * [KIT Gründerschmiede](http://kit-gruenderschmiede.de) - Consultation, lectures, and networking for founders/entrepreneurs
-
-
+* [Startups in Karlsruhe](https://pioniergarage.github.com/startups-karlsruhe) - Visualization of the startup scene in Karlsruhe
